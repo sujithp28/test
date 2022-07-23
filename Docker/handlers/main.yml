@@ -1,0 +1,6 @@
+---
+# handlers file for Docker
+- name: relaod daemon
+  command: systemctl daemon-reload
+- name: restart docker
+  command: systemctl restart docker  

@@ -1,0 +1,3 @@
+---
+# tasks file for Docker
+- include_tasks: docker.yaml
